@@ -1,0 +1,527 @@
+[
+  {
+    "id": "basics",
+    "category": {
+      "en": "Basics",
+      "ru": "Основы",
+      "fr": "L'essentiel",
+      "de": "Grundlagen",
+      "es": "Lo esencial",
+      "ko": "기초",
+      "pt": "Fundamentos",
+      "tr": "Temel bilgiler",
+      "zh": "基本"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Cryptocurrency Explained",
+          "file": "guides/fundamentals/en/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Криптовалюта",
+          "file": "guides/fundamentals/ru/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Crypto-monnaie",
+          "file": "guides/fundamentals/fr/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Kryptowährung",
+          "file": "guides/fundamentals/de/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Criptomoneda explicada",
+          "file": "guides/fundamentals/es/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ko": {
+          "title": "암호화폐 설명",
+          "file": "guides/fundamentals/ko/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "pt": {
+          "title": "Criptomoeda explicada",
+          "file": "guides/fundamentals/pt/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "tr": {
+          "title": "Kripto Para Birimi Açıklaması",
+          "file": "guides/fundamentals/tr/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "zh": {
+          "title": "加密货币解释",
+          "file": "guides/fundamentals/zh/1-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Crypto Wallets",
+          "file": "guides/fundamentals/en/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Доступно о кошельках",
+          "file": "guides/fundamentals/ru/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Les portefeuilles",
+          "file": "guides/fundamentals/fr/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Wallets erklärt",
+          "file": "guides/fundamentals/de/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Carteras criptográficas",
+          "file": "guides/fundamentals/es/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ko": {
+          "title": "암호화폐 지갑",
+          "file": "guides/fundamentals/ko/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "pt": {
+          "title": "Carteiras criptográficas",
+          "file": "guides/fundamentals/pt/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "tr": {
+          "title": "Kripto Cüzdanları",
+          "file": "guides/fundamentals/tr/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "zh": {
+          "title": "加密钱包",
+          "file": "guides/fundamentals/zh/2-wallets-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "What Are Private Keys",
+          "file": "guides/fundamentals/en/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Приватные ключи",
+          "file": "guides/fundamentals/ru/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Clés privées",
+          "file": "guides/fundamentals/fr/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Private Keys",
+          "file": "guides/fundamentals/de/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "¿Qué son las claves privadas?",
+          "file": "guides/fundamentals/es/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ko": {
+          "title": "개인 키란 무엇입니까?",
+          "file": "guides/fundamentals/ko/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "pt": {
+          "title": "O que são chaves privadas",
+          "file": "guides/fundamentals/pt/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "tr": {
+          "title": "Özel Anahtarlar Nelerdir?",
+          "file": "guides/fundamentals/tr/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "zh": {
+          "title": "什么是私钥",
+          "file": "guides/fundamentals/zh/3-private-keys-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Keeping Crypto Safe",
+          "file": "guides/fundamentals/en/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Безопасное хранение",
+          "file": "guides/fundamentals/ru/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Stockage sécurisé",
+          "file": "guides/fundamentals/fr/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Sichere Aufbewahrung",
+          "file": "guides/fundamentals/de/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Mantener las criptomonedas seguras",
+          "file": "guides/fundamentals/es/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ko": {
+          "title": "암호화폐를 안전하게 유지",
+          "file": "guides/fundamentals/ko/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "pt": {
+          "title": "Mantendo a criptografia segura",
+          "file": "guides/fundamentals/pt/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "tr": {
+          "title": "Kriptoyu Güvende Tutmak",
+          "file": "guides/fundamentals/pt/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "zh": {
+          "title": "确保加密货币安全",
+          "file": "guides/fundamentals/zh/4-safe-storage-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Deus Intro",
+          "file": "guides/fundamentals/en/5-deus-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Deus Кошелек",
+          "file": "guides/fundamentals/ru/5-deus-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Intro Deus",
+          "file": "guides/fundamentals/fr/5-deus-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Deus Intro",
+          "file": "guides/fundamentals/de/5-deus-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Deus Intro",
+          "file": "guides/fundamentals/es/5-deus-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Buying Cryptocurrency",
+          "file": "guides/fundamentals/en/6-buying-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Покупка криптовалюты",
+          "file": "guides/fundamentals/ru/6-buying-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Achat de cryptomonnaie",
+          "file": "guides/fundamentals/fr/6-buying-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Kryptowährung kaufen",
+          "file": "guides/fundamentals/de/6-buying-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Comprar criptomonedas",
+          "file": "guides/fundamentals/es/6-buying-cryptocurrency-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Spending Cryptocurrency",
+          "file": "guides/fundamentals/en/7-spending-cryptocurrency.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Расходование криптовалюты",
+          "file": "guides/fundamentals/ru/7-spending-cryptocurrency.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Dépenser la crypto-monnaie",
+          "file": "guides/fundamentals/fr/7-spending-cryptocurrency.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Krypto ausgeben",
+          "file": "guides/fundamentals/de/7-spending-cryptocurrency.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Gastar criptomonedas",
+          "file": "guides/fundamentals/es/7-spending-cryptocurrency.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Cryptocurrency Transactions",
+          "file": "guides/fundamentals/en/8-transactions-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "ru": {
+          "title": "Доступно о транзакциях",
+          "file": "guides/fundamentals/ru/8-transactions-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "fr": {
+          "title": "Transactions expliquées",
+          "file": "guides/fundamentals/fr/8-transactions-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "de": {
+          "title": "Transaktionen erklärt",
+          "file": "guides/fundamentals/de/8-transactions-basics.md",
+          "updated_at": "2020-06-01"
+        },
+        "es": {
+          "title": "Transacciones con criptomonedas",
+          "file": "guides/fundamentals/en/8-transactions-basics.md",
+          "updated_at": "2020-06-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "currencies",
+    "category": {
+      "en": "Currencies",
+      "ru": "Валюты",
+      "fr": "Monnaies",
+      "de": "Währungen",
+      "es": "Monedas",
+      "ko": "통화",
+      "pt": "Moedas",
+      "tr": "Para birimleri",
+      "zh": "货币"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Bitcoin in Simple Terms",
+          "file": "guides/token_guides/en/bitcoin.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Ethereum in Simple Terms",
+          "file": "guides/token_guides/en/ethereum.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Bitcoin Cash in Simple Terms",
+          "file": "guides/token_guides/en/bitcoin-cash.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Zcash in Simple Terms",
+          "file": "guides/token_guides/en/zcash.md",
+          "updated_at": "2020-11-15"
+        }
+      }
+    ]
+  },
+  {
+    "id": "defi",
+    "category": {
+      "en": "DeFi",
+      "ru": "DeFi",
+      "fr": "DeFi",
+      "de": "DeFi",
+      "es": "DeFi",
+      "ko": "DeFi",
+      "pt": "DeFi",
+      "tr": "DeFi",
+      "zh": "DeFi"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "DeFi Explained",
+          "file": "guides/defi/en/1-defi-explained.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "How to DeFi",
+          "file": "guides/defi/en/2-howto-defi.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Decentralized Exchanges",
+          "file": "guides/defi/en/3-decentralized-exchanges.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Lending Protocols",
+          "file": "guides/defi/en/4-lending-protocols.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Stablecoins",
+          "file": "guides/defi/en/5-stablecoins.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "DeFi Transactions",
+          "file": "guides/defi/en/6-defi-transactions.md",
+          "updated_at": "2020-09-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "exchanges",
+    "category": {
+      "en": "Exchanges",
+      "ru": "Биржи",
+      "fr": "Plateformes d'échange",
+      "de": "Börsen",
+      "es": "Intercambios",
+      "ko": "교환",
+      "pt": "Trocas",
+      "tr": "Borsalar",
+      "zh": "交易所"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Uniswap in Simple Terms",
+          "file": "guides/token_guides/en/uniswap.md",
+          "updated_at": "2020-10-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Curve in Simple Terms",
+          "file": "guides/token_guides/en/curve-finance.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Balancer in Simple Terms",
+          "file": "guides/token_guides/en/balancer-dex.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Synthetix in Simple Terms",
+          "file": "guides/token_guides/en/synthetix.md",
+          "updated_at": "2020-09-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "stablecoins",
+    "category": {
+      "en": "Stablecoins",
+      "ru": "Стейблкоины",
+      "fr": "Stablecoins",
+      "de": "Stablecoins",
+      "es": "Monedas estables",
+      "ko": "스테이블코인",
+      "pt": "Moedas estáveis",
+      "tr": "Stablecoin'ler",
+      "zh": "稳定币"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Tether in Simple Terms",
+          "file": "guides/token_guides/en/tether.md",
+          "updated_at": "2020-06-01"
+        }
+      },
+      {
+        "en": {
+          "title": "DAI in Simple Terms",
+          "file": "guides/token_guides/en/makerdao.md",
+          "updated_at": "2020-06-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "lending",
+    "category": {
+      "en": "Lending",
+      "ru": "Займы",
+      "fr": "Prêts",
+      "de": "Verleihen",
+      "es": "Préstamo",
+      "ko": "대출",
+      "pt": "Empréstimo",
+      "tr": "borç verme",
+      "zh": "借贷"
+    },
+    "guides": [
+      {
+        "en": {
+          "title": "Aave in Simple Terms",
+          "file": "guides/token_guides/en/aave.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "Compound in Simple Terms",
+          "file": "guides/token_guides/en/compound.md",
+          "updated_at": "2020-09-01"
+        }
+      },
+      {
+        "en": {
+          "title": "MakerDAO in Simple Terms",
+          "file": "guides/token_guides/en/makerdao.md",
+          "updated_at": "2020-06-01"
+        }
+      }
+    ]
+  }
+]
